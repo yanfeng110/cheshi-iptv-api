@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-19 18:40:01,https://www.freetv.top/migu/608807420.m3u8?migutoken=b0831136e327a93587e1920b5595d227c66a7f1a6aabb8e7532bc0682db88a37af6a27b88fde476a02c5f83db38f3b3e864bcf981c57f7fed9877095a1e2fac1a149f0f8869c5c1dc147bee7be$订阅源
+2025-10-21 18:42:08,https://www.freetv.top/migu/608807420.m3u8?migutoken=b0831136e327a93587e1920b5595d227c66a7f1a6aabb8e7532bc0682db88a37af6a27b88fde476a02c5f83db38f3b3e864bcf981c57f7fed9877095a1e2fac1a149f0f8869c5c1dc147bee7be$订阅源
 
 📺央视频道,#genre#
 CCTV-1,https://www.freetv.top/migu/608807420.m3u8?migutoken=b0831136e327a93587e1920b5595d227c66a7f1a6aabb8e7532bc0682db88a37af6a27b88fde476a02c5f83db38f3b3e864bcf981c57f7fed9877095a1e2fac1a149f0f8869c5c1dc147bee7be$订阅源
@@ -56,7 +56,6 @@ CCTV-17,https://jzb.wwkejishe.top/?id=594$订阅源
 北京卫视,https://jzb.wwkejishe.top/?id=608$订阅源
 湖北卫视,https://www.freetv.top/migu/738906825.m3u8?migutoken=959fce041a0fecbe0bdf2b300a4d13c986661650b877856aabade568eaf9f549143a65c212325030ca99ac119635c6c4daa7c93ba8863508e6aeef100965a31ae4a8152b02337aea453f42988d$订阅源
 湖北卫视,https://jzb.wwkejishe.top/?id=604$订阅源
-湖北卫视,https://smart.pendy.dpdns.org/Smart.php?id=hubei$订阅源
 黑龙江卫视,https://epg.pw/stream/c6c1262d0b35e59eac22bf513395f00f8b60cc5eab41f598412cdf8269312f32.m3u8$订阅源
 安徽卫视,https://jzb.wwkejishe.top/?id=612$订阅源
 重庆卫视,https://jzb.wwkejishe.top/?id=607$订阅源
@@ -90,5 +89,5 @@ CCTV-17,https://jzb.wwkejishe.top/?id=594$订阅源
 深圳卫视,https://smart.pendy.dpdns.org/Smart.php?id=shenzhen$订阅源
 天津卫视,https://jzb.wwkejishe.top/?id=611$订阅源
 西藏卫视,http://cc02.tv12.xyz/9.m3u8$订阅源
-新疆卫视,http://cc02.tv12.xyz/10.m3u8$订阅源
 新疆卫视,https://jzb.wwkejishe.top/?id=623$订阅源
+新疆卫视,http://cc02.tv12.xyz/10.m3u8$订阅源
